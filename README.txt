@@ -16,5 +16,5 @@ instead of 1000 (bcoz of the law of large numbers).  results are below:
     if you make 6 babies  98.45% of your genes are copied.
     if you make 7 babies  99.22% of your genes are copied.
     if you make 8 babies  99.6%  of your genes are copied.
-    if you make ...
+    ...
     if you make 19 babies 100%   of your genes are copied.
